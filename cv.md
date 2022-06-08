@@ -47,7 +47,7 @@ to be updated soon
 ### Work experience
 
 - CV pet project (HTML, CSS, VS Code, Git)
-- more to come
+- more to come soon
 
 ---
 
