@@ -22,3 +22,11 @@ I'am an ex-T&D manager on my way of restarting my career and becoming a self-tau
 # Code examples
 
 alert ('Как говорил мой дед: "Я твой дед!"')
+# Experience
+
+* Rosbank -- T&D department manager, 2021-2022.
+* IKEA -- Culture and leadership manager, 2020-2021.
+* British High School of Art and Design -- admissions department lead, 2019-2020.
+* Enterpreneurship -- e-learning project manager, 2015-2018.
+* Moscow State Pedagogical University -- manager, 2014-2015.
+* Various roles in education consultancy businesses -- 2008-2014
