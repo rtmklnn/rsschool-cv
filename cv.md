@@ -19,3 +19,6 @@ I'am an ex-T&D manager on my way of restarting my career and becoming a self-tau
 * Git and GitHub
 * Figma
 * VSCode
+# Code examples
+
+alert ('Как говорил мой дед: "Я твой дед!"')
