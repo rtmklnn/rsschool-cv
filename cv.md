@@ -35,3 +35,8 @@ alert ('Как говорил мой дед: "Я твой дед!"')
 * Academy n.a. Natalia Nesterova, BA Linguistics, 2009
 * Moscow State Linguistics University, Graduate Certificate ELT, 2014
 * Rolling Scopes School, in progress
+# Languages
+
+* Russian, native
+* English, C1-C2 
+* German, A1
