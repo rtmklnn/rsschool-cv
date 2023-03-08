@@ -30,3 +30,8 @@ alert ('Как говорил мой дед: "Я твой дед!"')
 * Enterpreneurship -- e-learning project manager, 2015-2018.
 * Moscow State Pedagogical University -- manager, 2014-2015.
 * Various roles in education consultancy businesses -- 2008-2014
+# Education
+
+* Academy n.a. Natalia Nesterova, BA Linguistics, 2009
+* Moscow State Linguistics University, Graduate Certificate ELT, 2014
+* Rolling Scopes School, in progress
